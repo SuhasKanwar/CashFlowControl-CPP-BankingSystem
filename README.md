@@ -17,7 +17,9 @@ Netbanking Interface: Users can interact with the banking system through a simpl
 
 Getting Started
 
-To run the program, simply compile the source code and execute the generated executable. Follow the on-screen prompts to navigate through the netbanking interface and perform various banking operations.
+To run the program, simply compile the source code and execute the generated executable.
+
+Follow the on-screen prompts to navigate through the netbanking interface and perform various banking operations.
 
 Notes
 
@@ -25,7 +27,6 @@ The program uses arrays to store account-related information and performs basic 
 
 It is designed for educational purposes and may not include advanced security features found in real-world banking systems.
 
-Feel free to explore and modify the code to enhance functionality or adapt it to specific requirements.
 
 Contibutors
 
